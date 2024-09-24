@@ -116,7 +116,7 @@ apt install yarn
 
 apt install npm -y
 
-npm install -y node@18
+npm install -y node@20
 
 echo "¿Quieres ejecutar el comando 'npm start' para iniciar el bot o 'salir' ? (start/exit) : "
 
